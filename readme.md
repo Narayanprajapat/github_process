@@ -7,3 +7,6 @@ Github process basic
 5. git add .
 6. git commit -m "Statement"
 7. git branch
+
+8. git checkout -b "branchName"
+9. git branch
