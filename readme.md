@@ -11,3 +11,6 @@ Github process basic
 
 9. git checkout -b "branchName"
 10. git branch
+
+11. git checkout branchName
+12. git pull origin branchName
